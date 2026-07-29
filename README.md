@@ -30,6 +30,7 @@
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Binary Tree
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
+## Matrix
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
