@@ -61,23 +61,35 @@ public:
 
         // ----NEW TRY 
     
-            int i = 0;
-            int j = i+1;
-            int n = v.size();
-            while(j<n){
-                if(v[i] == 0 && v[j]!=0){
-                    swap(v[i],v[j]);
-                    j++;
-                    i++;
-                }
-                else if(v[i]!=0 && v[j]==0){
-                    i = j;
-                    j++;
-                }
-                else{
+            // int i = 0;
+            // int j = i+1;
+            // int n = v.size();
+            // while(j<n){
+            //     if(v[i] == 0 && v[j]!=0){
+            //         swap(v[i],v[j]);
+            //         j++;
+            //         i++;
+            //     }
+            //     else if(v[i]!=0 && v[j]==0){
+            //         i = j;
+            //         j++;
+            //     }
+            //     else{
+            //         j++;
+            //     }
+            // }
+
+            // ------3rd try-------
+
+            int j = 0;
+
+            for (int i = 0; i < v.size(); i++) {
+                if (v[i] != 0) {
+                    swap(v[i], v[j]);
                     j++;
                 }
             }
+
 
     }
 };
