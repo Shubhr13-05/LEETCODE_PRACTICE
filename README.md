@@ -41,6 +41,7 @@
 | [0283-move-zeroes](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
