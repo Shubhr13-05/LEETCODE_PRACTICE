@@ -9,6 +9,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -28,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
@@ -81,6 +84,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
