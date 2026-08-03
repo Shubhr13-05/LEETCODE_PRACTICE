@@ -9,6 +9,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0118-pascals-triangle) |
+| [0219-contains-duplicate-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0118-pascals-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
