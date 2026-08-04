@@ -15,6 +15,7 @@
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
 ## Binary Tree
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
