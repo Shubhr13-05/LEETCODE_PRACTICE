@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
