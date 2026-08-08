@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
