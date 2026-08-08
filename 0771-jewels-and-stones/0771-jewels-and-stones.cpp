@@ -1,8 +1,8 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        map<char, int>m1;
-        map<char, int>m2;
+        unordered_map<char, int>m1;
+        unordered_map<char, int>m2;
         for(char c:jewels){
             m1[c]++;
         }
