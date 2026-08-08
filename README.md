@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
@@ -56,6 +57,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
