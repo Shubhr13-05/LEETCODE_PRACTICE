@@ -17,6 +17,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Tree
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
 | ------- |
