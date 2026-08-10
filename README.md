@@ -39,6 +39,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0506-relative-ranks) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -58,6 +59,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0506-relative-ranks) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
