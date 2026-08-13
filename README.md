@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
@@ -78,6 +79,7 @@
 | [0283-move-zeroes](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0506-relative-ranks) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
