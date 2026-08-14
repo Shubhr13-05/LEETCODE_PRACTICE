@@ -20,6 +20,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Tree
@@ -93,6 +94,7 @@
 | [0771-jewels-and-stones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
