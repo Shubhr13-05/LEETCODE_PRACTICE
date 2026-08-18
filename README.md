@@ -22,6 +22,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Tree
@@ -73,6 +74,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
