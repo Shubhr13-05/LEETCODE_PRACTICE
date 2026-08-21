@@ -7,6 +7,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3280-convert-date-to-binary](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3280-convert-date-to-binary](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3280-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
