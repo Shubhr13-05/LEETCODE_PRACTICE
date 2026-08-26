@@ -13,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -59,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
