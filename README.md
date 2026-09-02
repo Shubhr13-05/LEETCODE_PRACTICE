@@ -10,6 +10,7 @@
 | [3280-convert-date-to-binary](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
