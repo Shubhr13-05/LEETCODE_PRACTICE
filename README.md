@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [1922-count-good-numbers](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1922-count-good-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3903-smallest-stable-index-i) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
