@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0008-string-to-integer-atoi) |
+| [0205-isomorphic-strings](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
