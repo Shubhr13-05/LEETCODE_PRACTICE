@@ -82,6 +82,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -156,6 +157,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
