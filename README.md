@@ -79,6 +79,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -110,6 +111,7 @@
 | [0205-isomorphic-strings](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
