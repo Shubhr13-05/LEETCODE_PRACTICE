@@ -111,6 +111,7 @@
 | [0205-isomorphic-strings](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0771-jewels-and-stones) |
+| [1544-make-the-string-great](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
