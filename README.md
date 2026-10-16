@@ -113,6 +113,7 @@
 | [0771-jewels-and-stones](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [1544-make-the-string-great](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/0229-majority-element-ii) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhr13-05/LEETCODE_PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
